@@ -10,5 +10,5 @@ I currently have 4 apps posted on [Google Play](https://play.google.com/store/ap
 
 Here some tecnologies and tools that I work with
 
-Java Kotlin MySQL GitHub
+Java Kotlin Firebase Room MVVM MySQL GitHub
 
