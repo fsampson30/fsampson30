@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Flavio Sampson and I'm a Mobile Developer. I live in Rio de Janeiro - Brazil
+My name is Flavio Sampson and I'm a Java Spring Backend and Mobile Developer. I live in Rio de Janeiro - Brazil
 
-I currently have 6 apps posted on [Google Play](https://play.google.com/store/apps/developer?id=Flavio+Sampson)
+I currently have 6 apps posted on [Google Play](https://play.google.com/store/apps/developer?id=Flavio+Sampson) and several repositories that I use to study and learn new technologies.
 
 [Twitter](https://twitter.com/flaviosampson) [Linkedin](https://www.linkedin.com/in/flavio-sampson-a83339185/)
 
